@@ -1,6 +1,4 @@
-- pipeline: vskyiytunq
-  events:
-  - type: PUSH
-    refs:
-    - refs/heads/master
-    - bmhwjmvstl
+- pipeline: jujekanbwx
+  on: SCHEDULE
+  start_date: 2023-03-08T23:21:00Z
+  delay: 1
